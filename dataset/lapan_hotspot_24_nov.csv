@@ -1,0 +1,66 @@
+id,"tanggal (WIB)","waktu (WIB)",lintang,bujur,"tingkat kepercayaan",satelit,"radius kemungkinan",kecamatan,kabupaten,provinsi,tipe
+3561502,2021-11-24,12:34:00,-3.877415657043457,122.39996337890625,8,aqua,3000,Bondoala,Konawe,"Sulawesi Tenggara",Cluster
+3561501,2021-11-24,12:34:00,-4.287866115570068,119.9607162475586,8,aqua,3000,Ganra,Soppeng,"Sulawesi Selatan",Cluster
+3561503,2021-11-24,12:34:00,-2.7878124713897705,120.27635192871094,8,aqua,3000,"Malangke Barat","Luwu Utara","Sulawesi Selatan",Cluster
+3561484,2021-11-24,00:18:56,-10.15595913,124.32735443,8,noaa20,1125,"Amanuban Selatan","Timor Tengah Selatan","Nusa Tenggara Timur",Cluster
+3561497,2021-11-24,11:17:32,-9.827482700000001,124.7527771,8,noaa20,1280,"Amanatun Selatan","Timor Tengah Selatan","Nusa Tenggara Timur",Cluster
+3561526,2021-11-24,12:57:06,-8.27279854,123.51578522,8,noaa20,1125,Ileape,Lembata,"Nusa Tenggara Timur",Cluster
+3561496,2021-11-24,11:17:32,-8.058597565,140.268600465,8,noaa20,1280,Kurik,Merauke,Papua,Cluster
+3561481,2021-11-24,00:18:56,-1.45643103,127.43813324,8,noaa20,1125,Obi,"Halmahera Selatan","Maluku Utara",Cluster
+3561482,2021-11-24,00:18:56,-2.83345592,122.154506685,8,noaa20,1280,Bahodopi,Morowali,"Sulawesi Tengah",Cluster
+3561499,2021-11-24,11:17:32,-4.73066974,123.08195496,8,noaa20,1280,Bonegunu,"Buton Utara","Sulawesi Tenggara",Cluster
+3561498,2021-11-24,11:17:32,-5.0311567749999995,122.943904875,8,noaa20,1280,Konbowa,"Buton Utara","Sulawesi Tenggara",Cluster
+3561483,2021-11-24,00:18:56,-3.9024446624999998,122.41901588500001,8,noaa20,1500,Bondoala,Konawe,"Sulawesi Tenggara",Cluster
+3561528,2021-11-24,12:57:06,-2.78865886,120.27426147,8,noaa20,1125,"Malangke Barat","Luwu Utara","Sulawesi Selatan",Cluster
+3561527,2021-11-24,12:57:06,-7.49232244,112.6759491,8,noaa20,1125,Tanggulangin,Sidoarjo,"Jawa Timur",Cluster
+3561480,2021-11-24,00:18:56,1.16518283,117.67902374,8,noaa20,1125,Kaubun,"Kutai Timur","Kalimantan Timur",Cluster
+3561500,2021-11-24,11:17:32,0.53627282,122.43702698,8,noaa20,1125,Dulupi,Boalemo,Gorontalo,Cluster
+3561504,2021-11-24,12:08:45,-8.16648865,118.1209259,8,snpp,1125,Tambora,Bima,"Nusa Tenggara Barat",Cluster
+3561505,2021-11-24,12:08:45,-8.14128017,118.11257935,8,snpp,1125,Tambora,Bima,"Nusa Tenggara Barat",Cluster
+3561525,2021-11-24,12:08:45,-8.78799248,118.91755676,8,snpp,1125,Langgudu,Bima,"Nusa Tenggara Barat",Cluster
+3561478,2021-11-23,23:31:58,-10.15360355,124.32630157,8,snpp,1125,"Amanuban Selatan","Timor Tengah Selatan","Nusa Tenggara Timur",Cluster
+3561517,2021-11-24,12:08:45,-10.1499033,124.32580566,8,snpp,1125,"Amanuban Selatan","Timor Tengah Selatan","Nusa Tenggara Timur",Cluster
+3561518,2021-11-24,12:08:45,-10.13467026,124.13288116,8,snpp,1125,"Amarasi Timur",Kupang,"Nusa Tenggara Timur",Cluster
+3561522,2021-11-24,12:08:45,-9.69431877,124.7486496,8,snpp,1125,"Amanatun Utara","Timor Tengah Selatan","Nusa Tenggara Timur",Cluster
+3561521,2021-11-24,12:08:45,-9.71721649,124.79542542,8,snpp,1125,"Amanatun Utara","Timor Tengah Selatan","Nusa Tenggara Timur",Cluster
+3561519,2021-11-24,12:08:45,-9.76924133,124.78910065,8,snpp,1125,"Amanatun Utara","Timor Tengah Selatan","Nusa Tenggara Timur",Cluster
+3561520,2021-11-24,12:08:45,-9.74317265,124.78147888,8,snpp,1125,"Amanatun Utara","Timor Tengah Selatan","Nusa Tenggara Timur",Cluster
+3561524,2021-11-24,12:08:45,-9.439041615,125.035930635,8,snpp,1280,"Kobalima Timur",Malaka,"Nusa Tenggara Timur",Cluster
+3561523,2021-11-24,12:08:45,-9.59095383,124.77945709,8,snpp,1125,Rinhat,Malaka,"Nusa Tenggara Timur",Cluster
+3561477,2021-11-23,23:31:58,-8.19251442,122.76964569,8,snpp,1125,Tanjungbunga,"Flores Timur","Nusa Tenggara Timur",Cluster
+3561479,2021-11-23,23:31:58,-1.4580546900000002,127.4370899175,8,snpp,1500,Obi,"Halmahera Selatan","Maluku Utara",Cluster
+3561516,2021-11-24,12:08:45,-3.53347445,122.25763702,8,snpp,1125,Molawe,"Konawe Utara","Sulawesi Tenggara",Cluster
+3561474,2021-11-23,23:31:58,-3.54363561,126.17446899,8,snpp,1125,Kepalamadan,"Buru Selatan",Maluku,Cluster
+3561506,2021-11-24,12:08:45,-5.66710091,122.78453827,8,snpp,1125,Lapandewa,"Buton Selatan","Sulawesi Tenggara",Cluster
+3561507,2021-11-24,12:08:45,-5.56010485,122.872425075,8,snpp,1280,"Kab. Buton",Buton,"Sulawesi Tenggara",Cluster
+3561512,2021-11-24,12:08:45,-4.71160269,123.07067871,8,snpp,1125,Bonegunu,"Buton Utara","Sulawesi Tenggara",Cluster
+3561511,2021-11-24,12:08:45,-4.73959351,123.1776123,8,snpp,1125,Kulisusu,"Buton Utara","Sulawesi Tenggara",Cluster
+3561510,2021-11-24,12:08:45,-4.80674028,123.20258331,8,snpp,1125,Kulisusu,"Buton Utara","Sulawesi Tenggara",Cluster
+3561509,2021-11-24,12:08:45,-4.8513968,123.188007355,8,snpp,1280,Kulisusu,"Buton Utara","Sulawesi Tenggara",Cluster
+3561508,2021-11-24,12:08:45,-5.33084488,123.17482758,8,snpp,1125,"Kab. Buton",Buton,"Sulawesi Tenggara",Cluster
+3561514,2021-11-24,12:08:45,-4.22011042,122.72489166,8,snpp,1125,Moramo,"Konawe Selatan","Sulawesi Tenggara",Cluster
+3561515,2021-11-24,12:08:45,-4.2044005349999996,122.22301483000001,8,snpp,1280,Andoolo,"Konawe Selatan","Sulawesi Tenggara",Cluster
+3561513,2021-11-24,12:08:45,-4.3091135,122.33808899,8,snpp,1125,Palangga,"Konawe Selatan","Sulawesi Tenggara",Cluster
+3561475,2021-11-23,23:31:58,-3.870539823333333,122.40052032333334,8,snpp,1399,Bondoala,Konawe,"Sulawesi Tenggara",Cluster
+3561476,2021-11-23,23:31:58,-3.90233982,122.42042541500001,8,snpp,1280,Bondoala,Konawe,"Sulawesi Tenggara",Cluster
+3561485,2021-11-24,01:11:33,-4.94420576,119.62804413,8,snpp,1125,Bantimurung,Maros,"Sulawesi Selatan",Cluster
+3561529,2021-11-24,12:08:47,-2.71260738,120.40538788,8,snpp,1125,Malangke,"Luwu Utara","Sulawesi Selatan",Cluster
+3561530,2021-11-24,12:08:47,-1.58650076,120.04460144,8,snpp,1125,"Kulawi Selatan",Sigi,"Sulawesi Tengah",Cluster
+3561486,2021-11-24,01:11:33,-6.21705437,107.32728577,8,snpp,1125,Rawamerta,Karawang,"Jawa Barat",Cluster
+3561533,2021-11-24,12:08:47,1.21413887,121.34418488,8,snpp,1125,Karamat,Buol,"Sulawesi Tengah",Cluster
+3561531,2021-11-24,12:08:47,0.49246326,122.93669891,8,snpp,1125,"Batudaa Pantai",Gorontalo,Gorontalo,Cluster
+3561532,2021-11-24,12:08:47,0.51172352,122.41876221,8,snpp,1125,Dulupi,Boalemo,Gorontalo,Cluster
+3561495,2021-11-24,09:35:00,-8.536090850830078,115.40630340576172,8,terra,3000,Klungkung,Klungkung,Bali,Cluster
+3561493,2021-11-24,09:34:00,-8.52110481262207,116.99422454833984,8,terra,3000,Alas,Sumbawa,"Nusa Tenggara Barat",Cluster
+3561494,2021-11-24,09:34:00,-8.848724365234375,118.04803466796875,8,terra,3000,Empang,Sumbawa,"Nusa Tenggara Barat",Cluster
+3561492,2021-11-24,09:34:00,-8.611599922180176,118.93218231201172,8,terra,3000,Lambu,Bima,"Nusa Tenggara Barat",Cluster
+3561490,2021-11-24,09:34:00,-8.460463523864746,120.09471893310547,8,terra,3000,Komodo,Bima,"Nusa Tenggara Barat",Cluster
+3561491,2021-11-24,09:34:00,-8.837311744689941,121.65741729736328,8,terra,3000,"Ende Selatan",Ende,"Nusa Tenggara Timur",Cluster
+3561469,2021-11-23,21:12:00,-10.159523010253906,124.32386016845703,8,terra,3000,"Amanuban Selatan","Timor Tengah Selatan","Nusa Tenggara Timur",Cluster
+3561470,2021-11-23,21:12:00,-8.190811157226562,122.76917266845703,8,terra,3000,Tanjungbunga,"Flores Timur","Nusa Tenggara Timur",Cluster
+3561489,2021-11-24,09:34:00,-3.8673171997070312,122.41259002685547,7,terra,3000,Bondoala,Konawe,"Sulawesi Tenggara",Cluster
+3561472,2021-11-23,21:12:00,-3.8740029335021973,122.40359497070312,8,terra,3000,Bondoala,Konawe,"Sulawesi Tenggara",Cluster
+3561471,2021-11-23,21:12:00,-3.899630546569824,122.41638946533203,8,terra,3000,Bondoala,Konawe,"Sulawesi Tenggara",Cluster
+3561488,2021-11-24,09:34:00,-1.3935741186141968,120.75587463378906,8,terra,3000,"Poso Kota",Poso,"Sulawesi Tengah",Cluster
+3561473,2021-11-23,21:12:00,1.1594910621643066,117.68104553222656,8,terra,3000,Kaubun,"Kutai Timur","Kalimantan Timur",Cluster
+3561487,2021-11-24,09:34:00,0.7329681813716888,124.31573104858398,8,terra,3414,"Kotamobagu Timur",Mobagu,"Sulawesi Utara",Cluster
