@@ -1,0 +1,11 @@
+id,"tanggal (WIB)","waktu (WIB)",lintang,bujur,"tingkat kepercayaan",satelit,"radius kemungkinan",kecamatan,kabupaten,provinsi,tipe
+3563612,2021-12-20,23:58:00,-1.4564720392227173,127.44039535522461,8,aqua,3414,Obi,"Halmahera Selatan","Maluku Utara",Cluster
+3563616,2021-12-21,00:13:00,-1.455682875,127.43667603,8,noaa20,1280,Obi,"Halmahera Selatan","Maluku Utara",Cluster
+3563618,2021-12-21,00:13:00,-2.83062983,122.17017365,8,noaa20,1125,Bahodopi,Morowali,"Sulawesi Tengah",Cluster
+3563617,2021-12-21,00:13:00,-2.8275920725,122.1617012025,8,noaa20,1500,Bahodopi,Morowali,"Sulawesi Tengah",Cluster
+3563619,2021-12-21,00:13:00,-2.8506279,122.16700745,8,noaa20,1125,Bahodopi,Morowali,"Sulawesi Tengah",Cluster
+3563620,2021-12-21,00:13:00,-3.90122819,122.42041779,8,noaa20,1125,Bondoala,Konawe,"Sulawesi Tenggara",Cluster
+3563615,2021-12-21,00:13:00,1.16596901,117.67826843,8,noaa20,1125,Kaubun,"Kutai Timur","Kalimantan Timur",Cluster
+3563613,2021-12-20,23:26:05,-1.4595083,127.43881989,8,snpp,1125,Obi,"Halmahera Selatan","Maluku Utara",Cluster
+3563614,2021-12-20,23:26:05,-2.83092594,122.17558289,8,snpp,1125,Bahodopi,Morowali,"Sulawesi Tengah",Cluster
+3563611,2021-12-20,20:52:00,-1.4604430198669434,127.4366226196289,8,terra,3000,Obi,"Halmahera Selatan","Maluku Utara",Cluster

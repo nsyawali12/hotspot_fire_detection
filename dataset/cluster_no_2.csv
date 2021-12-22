@@ -1,0 +1,6 @@
+,id,tanggal (WIB),waktu (WIB),lintang,bujur,tingkat kepercayaan,satelit,radius kemungkinan,kecamatan,kabupaten,provinsi,tipe,label_cluster
+16,3561504,2021-11-24,12:08:45,-8.16648865,118.1209259,8,snpp,1125,Tambora,Bima,Nusa Tenggara Barat,Cluster,2
+17,3561505,2021-11-24,12:08:45,-8.14128017,118.11257935,8,snpp,1125,Tambora,Bima,Nusa Tenggara Barat,Cluster,2
+18,3561525,2021-11-24,12:08:45,-8.78799248,118.91755676,8,snpp,1125,Langgudu,Bima,Nusa Tenggara Barat,Cluster,2
+53,3561494,2021-11-24,09:34:00,-8.848724365234375,118.04803466796876,8,terra,3000,Empang,Sumbawa,Nusa Tenggara Barat,Cluster,2
+54,3561492,2021-11-24,09:34:00,-8.611599922180176,118.93218231201172,8,terra,3000,Lambu,Bima,Nusa Tenggara Barat,Cluster,2
